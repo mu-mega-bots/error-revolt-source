@@ -8,3 +8,10 @@ Source code for Error on Revolt
 
  **Public and Open Source**: If you modify this bot, you must keep your project public and open source.
 ## We have taken care of this in the index.js for you already. Please keep the credits as it's respectful to the author (us) and also helps us. If we see Error being publically hosted we hope you know you're a rude person.
+
+# Support Us
+https://ko-fi.com/megautilities
+
+https://buymeacoffee.com/megautilities
+
+https://patreon.com/MegaUtilities
