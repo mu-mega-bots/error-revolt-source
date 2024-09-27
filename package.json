@@ -1,0 +1,13 @@
+{
+  "name": "error-revolt-bot",
+  "version": "0.0.1-os",
+  "description": "A Revolt.js bot for private use only. Created by Mega Bots.",
+  "homepage": "https://github.com/mu-mega-bots/error-revolt-source",
+  "author": "Mega Bots",
+  "credits": "Created by Mega Bots thanks to revolt.js",
+  "dependencies": {
+    "@sentry/node": "^8.30.0",
+    "node-fetch": "^3.3.2",
+    "revolt.js": "^7.0.3"
+  }
+}
